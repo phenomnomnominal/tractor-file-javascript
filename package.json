@@ -42,7 +42,7 @@
     "npm-watch": "^0.3.0",
     "sinon": "^4.2.1",
     "sinon-chai": "^2.14.0",
-    "tractor": "^0.12.9",
+    "tractor": "^0.13.0",
     "tractor-error-handler": "^0.2.4",
     "tractor-file-structure": "^0.5.7",
     "tractor-logger": "^0.1.1"
